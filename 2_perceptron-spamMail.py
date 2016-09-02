@@ -1,6 +1,4 @@
 """
-jinlim1018@gmail.com
-
 Implementation of the Perceptron Algorithm & Filtering Spam email
 Binary Classification
 
